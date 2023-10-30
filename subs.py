@@ -7,7 +7,7 @@ global maximum
 
 # To make use of recursive calls, this function must return
 # two things:
-# 1) Length of LIS ending with element arr[n-1]. We use
+# 1) Length of LIS ending with elent arr[n-1]. We use
 # max_ending_here for this purpose
 # 2) Overall maximum as the LIS may end with an element
 # before arr[n-1] max_ref is used this purpose.
