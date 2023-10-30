@@ -25,10 +25,7 @@
 		} 
 
 		input[type="button"] { 
-			width: 100%; 
-			padding: 20px 40px; 
-			background-color: green; 
-			color: white; 
+		
 			font-size: 24px; 
 			font-weight: bold; 
 			border: none; 
