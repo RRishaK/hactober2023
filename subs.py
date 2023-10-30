@@ -41,6 +41,44 @@ def _lis(arr, n):
 
 	return maxEndingHere
 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+	<meta charset="UTF-8"> 
+	<meta http-equiv="X-UA-Compatible"
+		content="IE=edge"> 
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0"> 
+	<title>Geeks for Geeks</title> 
+	<link rel="stylesheet" href="style.css"> 
+</head> 
+<style> 
+	#image-container { 
+		display: flex; 
+		justify-content: center; 
+		align-items: center; 
+		height: 100vh; 
+	} 
+
+	img { 
+		max-width: 100%; 
+	} 
+
+	#image-container img:hover { 
+		cursor: zoom-in; 
+	} 
+</style> 
+
+<body> 
+	<div id="image-container"> 
+		<img src= 
+"https://media.geeksforgeeks.org/wp-content/uploads/20230405173803/gfg3-300x300.png"
+			alt="Geeks for Geeks"> 
+	</div> 
+</body> 
+<script src="script.js"></script> 
+
+</html>
 
 def lis(arr):
 
